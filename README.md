@@ -26,8 +26,4 @@
 
 - <a href="https://www.paypal.com/donate/?hosted_button_id=D2AQLAZVL75LQ"> <img align="left" src="https://raw.githubusercontent.com/brunolimame/brunolimame.github.io/master/QR-Code-paypal.png" height="128" width="128" alt="Doar com no paypal" /></a>
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunolimame&show_icons=true&locale=en&layout=compact" alt="brunolimame" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brunolimame&show_icons=true&locale=en" alt="brunolimame" /></p>
+- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=brunolimame&show_icons=true&theme=dark" alt="brunolimame" /></p>
