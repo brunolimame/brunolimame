@@ -2,6 +2,8 @@
 
 ###### Desenvolvedor FullCycle | GoLang | PHP | React | Typescript | Docker | Symfony | Backend | Frontend | Fullstack
 
+Apaixonado por tecnologia e seu poder de transformar pensamentos em soluções inovadoras. Venho buscando estabelecer parcerias de sucesso e aprimorar constantemente meus conhecimentos, tanto no campo técnico quanto no pessoal. Sempre que posso, tento aprender coisas novas e desenvolver soluções que melhorem a qualidade de vida das pessoas. Acredito que a tecnologia é uma das maiores ferramentas para o crescimento pessoal e desenvolvimento profissional.
+
 ![](https://komarev.com/ghpvc/?username=brunolimame&label=Profile%20views&color=0e75b6&style=flat)
 
 ![https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=brunolimame&row=2&column=3)
