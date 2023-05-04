@@ -2,16 +2,16 @@
 
 ###### Desenvolvedor FullCycle | GoLang | PHP | React | Typescript | Docker | Symfony | Backend | Frontend | Fullstack
 
-Apaixonado por tecnologia e seu poder de transformar pensamentos em soluções inovadoras. Venho buscando estabelecer parcerias de sucesso e aprimorar constantemente meus conhecimentos, tanto no campo técnico quanto no pessoal. Sempre que posso, tento aprender coisas novas e desenvolver soluções que melhorem a qualidade de vida das pessoas. Acredito que a tecnologia é uma das maiores ferramentas para o crescimento pessoal e desenvolvimento profissional.
+Apaixonado por tecnologia e seu poder de transformar pensamentos em soluções inovadoras. Venho buscando estabelecer parcerias de sucesso e aprimorar constantemente meus conhecimentos, tanto no campo técnico quanto no pessoal. Sempre que posso, tento aprender coisas novas e desenvolver soluções que melhorem a qualidade de vida das pessoas. Acredito que a tecnologia é uma das maiores ferramentas para o crescimento pessoal e desenvolvimento profissional
 
 ![](https://komarev.com/ghpvc/?username=brunolimame&label=Profile%20views&color=0e75b6&style=flat)
 
 ![https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=brunolimame&row=2&column=3)
 
 
-- 🌱 No momento estou estudando **Go Expert | Full Cycle**
-- 👀 Trabalhando na plataforma [**SAS de Bolão Esportivo**](https://github.com/brunolimame/bolao-esportivo) em **Go Lang**
-- 📄 Minhas experiências no **[Currículo](https://brunolima.me/wp-content/uploads/2023/04/bruno-lima-curriculo.pdf)**
+- 🌱 Atualmente, estou estudando **Go Expert | Full Cycle | Engenharia de Software | Micro Serviços**
+- 👀 Trabalhando na plataforma <a href="" title="Plataforma SAS de Bolão Esportivo" target="_blank">**SAS de Bolão Esportivo** em **Go Lang**</a>
+- 📄 Minha habilidades e trajetória estão no meu <a href="https://brunolima.me/wp-content/uploads/2023/04/bruno-lima-curriculo.pdf" target="_blank" title="Currículo de Bruno Lima">**Currículo**</a>
 
 
 <a href="https://github.com/brunolimame/github-stats">
@@ -22,27 +22,36 @@ Apaixonado por tecnologia e seu poder de transformar pensamentos em soluções i
 ---
 
 ### Contato
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/brunolimame)](https://linkedin.com/in/brunolimame)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:brunolimame@gmail.com)](brunolimame@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5579999350990&text=Ol%C3%A1%20Bruno,%20estou%20entrando%20em%20contato%20pelo%20seu%20site.&source=github.com)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/brunolimame)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagrama.com/brunolimame)
+<a href="https://linkedin.com/in/brunolimame" target="_blank" title="Linkedin de Bruno Lima"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin de Bruno Lima"></a>
+<a href="https://api.whatsapp.com/send?phone=5579999350990&text=Ol%C3%A1%20Bruno,%20vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20entrar%20em%20contato&source=github.com" target="_blank" title="WhatsApp de Bruno Lima"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp de Bruno Lima"></a>
+<a href="mailto:brunolimame@gmail.com" target="_blank" title="Gmail de Bruno Lima"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail de Bruno Lima"></a>
+<a href="https://t.me/brunolimame" target="_blank" title="Telegram de Bruno Lima"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram de Bruno Lima"></a>
+<a href="https://instagrama.com/brunolimame" target="_blank" title="Instagram de Bruno Lima"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram de Bruno Lima"></a>
 
 ### Linguagens
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+
+- **Senior**: ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+- **Pleno**: ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- **Junior**: ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### Versionamento
 ![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
+### Projetos pessoais
+- <a href="https://brunolima.me/bolao" target="_blank" title="SAS Bolão Esportivo">**SAS Bolão Esportivo em Go**</a>
+    - Desenvolvimento de uma plataforma SAS de Boção Esportivo em Golang
+    - Colocar em prática e evoluir, os conhecimento adquiridos no curso **Go Expert** da **Full Cycle**
+    - Contruir uma plataforma sustentada em testes automatizados
+    - Desenvolvimento aplicando TDD e Clean Architecture
+    - ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Docker Badge](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Swagger Badge](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Codecov Badge](https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Github Actions Badge](https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe)
+- <a href="https://github.com/potara" target="_blank" title="Projeto POTARA">**POTARA**</a>
+    - O objetivo deste projeto foi de treinar e evuluir, meus conhecimentos em desenvolvimento de software em PHP
+    - CMS de código aberto em PHP, modular, onde o código é de fácil entendimento e manutenção. [MVC | GIT | PHP | Slim Framework | Symfony | Doctrine | JTW | Twig]
 
 ### CI
 ![Github Actions Badge](https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe)
