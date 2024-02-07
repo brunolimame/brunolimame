@@ -1,6 +1,7 @@
 ## Olá 👋, sou Bruno Lima
 
-###### Desenvolvedor FullCycle | GoLang | PHP | React | Typescript | Docker | Symfony | Backend | Frontend | Fullstack
+#### Desenvolvedor PHP Senior
+###### FullCycle | GoLang | PHP | React | Typescript | Docker | Symfony | Backend | Frontend | Fullstack
 
 Apaixonado por tecnologia e seu poder de transformar pensamentos em soluções inovadoras. Venho buscando estabelecer parcerias de sucesso e aprimorar constantemente meus conhecimentos, tanto no campo técnico quanto no pessoal. Sempre que posso, tento aprender coisas novas e desenvolver soluções que melhorem a qualidade de vida das pessoas. Acredito que a tecnologia é uma das maiores ferramentas para o crescimento pessoal e desenvolvimento profissional
 
@@ -9,8 +10,7 @@ Apaixonado por tecnologia e seu poder de transformar pensamentos em soluções i
 ![https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=brunolimame&row=2&column=3)
 
 
-- 🌱 Atualmente, estou estudando **Go Expert | Full Cycle | Engenharia de Software | Micro Serviços**
-- 👀 Trabalhando na plataforma <a href="" title="Plataforma SAS de Bolão Esportivo" target="_blank">**SAS de Bolão Esportivo** em **Go Lang**</a>
+- Minha configurações no VSCode: https://gist.github.com/brunolimame/f180d624fb199ad788080e5095a4226c
 - 📄 Minha habilidades e trajetória estão no meu <a href="https://brunolima.me/wp-content/uploads/2023/04/bruno-lima-curriculo.pdf" target="_blank" title="Currículo de Bruno Lima">**Currículo**</a>
 
 
