@@ -43,7 +43,7 @@ Apaixonado por tecnologia e seu poder de transformar pensamentos em soluções i
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ### Projetos pessoais
-- <a href="https://brunolima.me/bolao" target="_blank" title="SAS Bolão Esportivo">**SAS Bolão Esportivo em Go**</a>
+- <a href="https://github.com/brunolimame/bolao/tree/feature/dev" target="_blank" title="SAS Bolão Esportivo">**SAS Bolão Esportivo em Go**</a>
     - Desenvolvimento de uma plataforma SAS de Boção Esportivo em Golang
     - Colocar em prática e evoluir, os conhecimento adquiridos no curso **Go Expert** da **Full Cycle**
     - Contruir uma plataforma sustentada em testes automatizados
