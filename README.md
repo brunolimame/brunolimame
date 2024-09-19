@@ -11,7 +11,7 @@ Apaixonado por tecnologia e seu poder de transformar pensamentos em soluções i
 
 
 - Minha configurações no VSCode: https://gist.github.com/brunolimame/f180d624fb199ad788080e5095a4226c
-- 📄 Minha habilidades e trajetória estão no meu <a href="https://brunolima.me/wp-content/uploads/2023/04/bruno-lima-curriculo.pdf" target="_blank" title="Currículo de Bruno Lima">**Currículo**</a>
+- 📄 Minha habilidades e trajetória estão no meu <a href="https://brunolima.me/wp-content/uploads/2023/05/bruno-lima-curriculo.pdf" target="_blank" title="Currículo de Bruno Lima">**Currículo**</a>
 
 
 <a href="https://github.com/brunolimame/github-stats">
